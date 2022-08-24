@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Steven Telleen">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11774</md:content-id>
     <md:title>Human Physiology Part 1: Foundation Concepts</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>86f5c36a-f22b-457f-93ef-cc2a2c7a30ef</md:uuid>
-<md:slug>human-physiology-part-1-foundation-concepts</md:slug>
-</metadata>
+    <md:slug>human-physiology-part-1-foundation-concepts</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>An Introduction to the Human Body</md:title>
